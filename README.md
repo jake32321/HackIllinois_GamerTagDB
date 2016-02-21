@@ -1,5 +1,5 @@
 # HackIllinois_GamerTagDB
-A simple gamertag database written in ASP.net using C#
+A gamertag database written in ASP.net using C#.  Can be used at gaming events (ie LAN) to easily share gamer-tags with others so you can find others who are playing similar titles as you on a similar platform.
 
 ##Short Description
 The ACM Gamertag Database application is a web application that will allow members to store their GamerTag ID’s from a variety of gaming services in one central location online. 

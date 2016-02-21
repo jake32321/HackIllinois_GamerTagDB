@@ -1,0 +1,4 @@
+<step title="Incoming Request" date="2016-02-21T04:19:41.309" instance="309586" url="/deploy?scmType=GitHub" method="POST" type="request" pid="852,2,8" Connection="Keep-Alive" Content-Length="8979" Content-Type="application/x-www-form-urlencoded" Accept="*/*" Host="siucacmgamertag.scm.azurewebsites.net" User-Agent="GitHub-Hookshot/21f57ba" X-GitHub-Event="ping" X-GitHub-Delivery="52a2ff80-d852-11e5-8906-18f9515203d6" X-SITE-DEPLOYMENT-ID="siucacmgamertag" >
+  <step title="FetchHandler" date="2016-02-21T04:19:41.465" /><!-- duration: 234ms -->
+  <step title="Outgoing response" date="2016-02-21T04:19:41.700" type="response" statusCode="200" statusText="OK" Server="Microsoft-IIS/8.0" Cache-Control="private" X-AspNet-Version="4.0.30319" /><!-- duration: 16ms -->
+</step><!-- duration: 406ms -->

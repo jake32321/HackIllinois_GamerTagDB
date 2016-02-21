@@ -1,0 +1,8 @@
+<step title="Incoming Request" date="2016-02-21T04:19:50.582" instance="309586" url="/deploy?scmType=GitHub&amp;isAsync=true" method="POST" type="request" pid="11000,2,8" Connection="Keep-Alive" Content-Length="85" Expect="100-continue" Host="siucacmgamertag.scm.azurewebsites.net" User-Agent="Azure-WebSites-Controller/51.0.8598.1874" x-ms-request-id="7962d69f-d29b-4fcf-bc94-8112a9ec6ac1" X-SITE-DEPLOYMENT-ID="siucacmgamertag" >
+  <step title="FetchHandler" date="2016-02-21T04:19:50.613" >
+    <step title="Start deployment in the background" date="2016-02-21T04:19:50.691" >
+      <step title="Creating temporary deployment" date="2016-02-21T04:19:50.707" /><!-- duration: 47ms -->
+    </step><!-- duration: 78ms -->
+  </step><!-- duration: 156ms -->
+  <step title="Outgoing response" date="2016-02-21T04:19:50.769" type="response" statusCode="202" statusText="Accepted" Server="Microsoft-IIS/8.0" Location="https://siucacmgamertag.scm.azurewebsites.net/api/deployments/latest?deployer=GitHub&amp;time=2016-02-21_04-19-50Z" Cache-Control="private" X-AspNet-Version="4.0.30319" /><!-- duration: 16ms -->
+</step><!-- duration: 203ms -->

@@ -1,0 +1,3 @@
+<step title="Incoming Request" date="2016-02-21T04:19:41.389" instance="309586" url="/api/settings" method="POST" type="request" pid="852,2,11" Connection="Keep-Alive" Content-Length="26" Content-Type="application/json" Expect="100-continue" Host="siucacmgamertag.scm.azurewebsites.net" User-Agent="Azure-WebSites-Controller/51.0.8598.1874" x-ms-request-id="7962d69f-d29b-4fcf-bc94-8112a9ec6ac1" X-SITE-DEPLOYMENT-ID="siucacmgamertag" >
+  <step title="Outgoing response" date="2016-02-21T04:19:42.356" type="response" statusCode="204" statusText="No Content" Server="Microsoft-IIS/8.0" x-ms-request-id="7962d69f-d29b-4fcf-bc94-8112a9ec6ac1" Cache-Control="private" X-AspNet-Version="4.0.30319" /><!-- duration: 0ms -->
+</step><!-- duration: 983ms -->

@@ -1,0 +1,1 @@
+2016-02-21T05:02:49  Startup Request, url: /Microsoft.Mobile.Management/?api-version=2014-11-01&_=1456030964967, method: GET, type: request, pid: 7880,2,8, ScmType: None

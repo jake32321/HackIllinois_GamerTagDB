@@ -1,0 +1,9 @@
+<step title="Incoming Request" date="2016-02-21T04:33:04.402" instance="309586" url="/api/scm" method="DELETE" type="request" pid="8336,2,9" Connection="Keep-Alive" Host="siucacmgamertag.scm.azurewebsites.net" User-Agent="Azure-WebSites-Controller/51.0.8598.1874" x-ms-request-id="fd8fce7f-9457-43be-b61c-f63a0bb47c6d" X-SITE-DEPLOYMENT-ID="siucacmgamertag" >
+  <step title="Assuming git repository at D:\home\site\repository" date="2016-02-21T04:33:04.511" /><!-- duration: 0ms -->
+  <step title="Deleting repository" date="2016-02-21T04:33:04.589" /><!-- duration: 938ms -->
+  <step title="Delete auto swap lock file" date="2016-02-21T04:33:05.527" /><!-- duration: 16ms -->
+  <step title="Deleting ssh key" date="2016-02-21T04:33:05.542" /><!-- duration: 16ms -->
+  <step title="Updating initial deployment manifest" date="2016-02-21T04:33:05.558" /><!-- duration: 31ms -->
+  <step title="Deleting deployment cache" date="2016-02-21T04:33:05.589" /><!-- duration: 234ms -->
+  <step title="Outgoing response" date="2016-02-21T04:33:05.855" type="response" statusCode="204" statusText="No Content" Server="Microsoft-IIS/8.0" x-ms-request-id="fd8fce7f-9457-43be-b61c-f63a0bb47c6d" Cache-Control="private" X-AspNet-Version="4.0.30319" /><!-- duration: 0ms -->
+</step><!-- duration: 1453ms -->

@@ -23,4 +23,4 @@ There is a secret admin panel hyperlinked that allows manually removing a given 
 
 <b>Notice:</b> For any of these methods to execute correctly you must click each button, simply hitting enter may not work. 
 
-![Azure logo](./SLAN.png)<br>
+![Azure logo](./PoweredByAzure.png)<br>

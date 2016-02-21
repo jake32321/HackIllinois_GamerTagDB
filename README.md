@@ -22,3 +22,5 @@ The user may optionally provide a deletion key if they would like to remove thei
 There is a secret admin panel hyperlinked that allows manually removing a given name if the admin password is provided.
 
 <b>Notice:</b> For any of these methods to execute correctly you must click each button, simply hitting enter may not work. 
+
+![Azure logo](./SLAN.png)<br>
